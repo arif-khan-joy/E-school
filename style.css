@@ -1,0 +1,65 @@
+.top-nav{
+    padding-top: 20px;
+}
+.logo-width{
+    width:150px;
+}
+.banner-img{
+    width:500px;
+}
+.banner-section{
+    padding-top: 50px;
+}
+.banner-bg{
+    background-color: #F0FFF0;
+    padding-bottom: 40px;
+    
+}
+.student-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+
+}
+
+.card{
+    border-radius: 15px;
+}
+.card-footer .fa{
+    font-size:20px!important;
+    
+}
+.testimonial-img{
+    width: 90px;
+}
+.testimonial{
+    padding-top:30px;
+    padding-bottom: 50px;
+}
+.footer-part{
+    background-color: #282531;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.footer-part2{
+    padding-bottom: 50px;
+}
+.book-size{
+    width:100px;
+    
+}
+
+   .navbar1{
+       background-color: #F0FFF0;
+       padding:50px 0px;
+       border-radius: 10px;
+   }
+   .bookpart{
+       margin:50px 0px;
+
+   }
+   .navbar1:hover{
+       background-color: white;
+   }
