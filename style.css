@@ -19,8 +19,6 @@
     margin-top: 50px;
     margin-bottom: 50px;
 
-
-
 }
 
 .card{
@@ -55,6 +53,7 @@
        background-color: #F0FFF0;
        padding:50px 0px;
        border-radius: 10px;
+       
    }
    .bookpart{
        margin:50px 0px;
